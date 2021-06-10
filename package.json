@@ -58,7 +58,7 @@
     "@babel/plugin-transform-object-assign": "7.12.13",
     "@babel/preset-env": "7.14.1",
     "@babel/preset-typescript": "7.13.0",
-    "@babel/register": "7.13.16",
+    "@babel/register": "7.14.5",
     "@itsjamie/esdoc-cli": "0.3.1",
     "@itsjamie/esdoc-core": "0.3.1",
     "@itsjamie/esdoc-ecmascript-proposal-plugin": "0.3.1",
